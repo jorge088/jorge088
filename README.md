@@ -1,9 +1,9 @@
 ### Hola 👋🏻
    <p>Estudiando desarrollo web Front-End y Ingeniería en Computación, actualmente tutor de Javascript en Coderhouse. </p>
    <p>Aqui encontrarás el codigo de  algunos proyectos que he estado realizando. Pasa con confianza 👍🏻 </p>
-   📌**Portfolio**: https://jorge-mendez.netlify.app/ <br>
-   📌**App que estoy realizando**: https://useful-apps.netlify.app/ <br>
-   📌**Mi canal de Yt, aveces subo videos de mis proyectos**: https://www.youtube.com/channel/UCqEaO7TLZrMFiI7LRmdhCEA
+   📌 Portfolio: https://jorge-mendez.netlify.app/ <br>
+   📌 App que estoy realizando: https://useful-apps.netlify.app/ <br>
+   📌 Mi canal de Yt, aveces subo videos de mis proyectos: https://www.youtube.com/channel/UCqEaO7TLZrMFiI7LRmdhCEA
 <!--
 **jorge088/jorge088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
