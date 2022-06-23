@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hola 👋🏻
+   <p>Estudiante de desarrollo web Front-End, actualmente tutor de Javascript en Coderhouse. </p>
+   <p>Aqui encontrarás algunos proyectos que he estado realizando. Pasa con confianza 👍🏻 </p>
 <!--
 **jorge088/jorge088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
